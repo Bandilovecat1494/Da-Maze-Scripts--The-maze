@@ -1,4 +1,4 @@
- 
+--u is a poopoo
 local ModdedFlashlight = Instance.new("Tool") 
 local Handle = Instance.new("Part") 
 local Sound = Instance.new("Sound") 
